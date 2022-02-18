@@ -29,7 +29,7 @@ if __name__ == '__main__':
     logger.addHandler(console_handler)
     logger.addHandler(file_handler)
 
-    logger.info('Hello World debug')
+    logger.debug('Hello World debug')
     logger.info('Hello World info')
     try:
         1 / 0

@@ -12,6 +12,6 @@ Yet Another Structured Logging for Python
 - Run python3 yas_logging_demo.py for testing
 
 ## Sample Output
-- [TIME] [HOSTNAME]:[USERNAME] [LOGGERNAME:*INFO*] Hello World debug */yas-logging/examples/yas_logging_demo.py:32 [PROCESSID]:[THRADID]
+- [TIME] [HOSTNAME]:[USERNAME] [LOGGERNAME:*DEBUG*] Hello World debug */yas-logging/examples/yas_logging_demo.py:32 [PROCESSID]:[THRADID]
 - [TIME] [HOSTNAME]:[USERNAME] [LOGGERNAME:*INFO*] Hello World info */yas-logging/examples/yas_logging_demo.py:33 [PROCESSID]:[THRADID]
 - [TIME] [HOSTNAME]:[USERNAME] [LOGGERNAME:*ERROR*] Hello World error: division by zero */yas-logging/examples/yas_logging_demo.py:37 [PROCESSID]:[THRADID]
